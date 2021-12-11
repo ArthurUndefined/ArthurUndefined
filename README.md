@@ -24,5 +24,3 @@
 ### Para mais informações acessse: 
 
 ⠀⠀⠀⠀⠀⠀<code>https://arthurundefined.github.io</code>
-
-  
