@@ -2,11 +2,11 @@
 
 ### Sobre min:
 
-⠀⠀⠀⠀⠀⠀Cursando Tecnico de informatica
+⠀⠀⠀⠀⠀⠀<code>Cursando Tecnico de informatica</code>
 
-⠀⠀⠀⠀⠀⠀2ºAno do Ensino Médio
+⠀⠀⠀⠀⠀⠀<code>2ºAno do Ensino Médio</code>
 
-⠀⠀⠀⠀⠀⠀Distrito Federal
+⠀⠀⠀⠀⠀⠀<code>Distrito Federal</code>
 
 ### Estudando Front-End: 
 
@@ -23,6 +23,6 @@
 
 ### Para mais informações acessse: 
 
-⠀⠀⠀⠀⠀⠀https://arthurundefined.github.io
+⠀⠀⠀⠀⠀⠀<code>https://arthurundefined.github.io</code>
 
   
