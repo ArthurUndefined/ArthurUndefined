@@ -21,7 +21,6 @@
 
 ⠀⠀⠀⠀⠀⠀<a href="https://www.linkedin.com/in/arthur-rabelo-5663871b6/"><img src="https://img.icons8.com/wired/64/000000/linkedin--v1.png" /></a><a href="https://api.whatsapp.com/send?phone=5561995022477"><img src="https://img.icons8.com/wired/64/000000/whatsapp.png" /></a
 
-<img />
 ### Para mais informações acessse: 
 
 ⠀⠀⠀⠀⠀⠀https://arthurundefined.github.io
