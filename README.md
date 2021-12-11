@@ -1,8 +1,6 @@
 # Arthur Da Mata Rabelo
 
 ### Sobre min:
-
----
   
 ⠀⠀⠀⠀⠀⠀Cursando Tecnico de informatica
 
@@ -10,16 +8,15 @@
 
 ⠀⠀⠀⠀⠀⠀Distrito Federal
 
-
-⠀⠀⠀⠀⠀⠀Para mais informações acessse: 
+Para mais informações acessse: 
 
 ⠀⠀⠀⠀⠀⠀https://arthurundefined.github.io
   
-⠀⠀⠀⠀⠀⠀Estudando Front-End: 
+Estudando Front-End: 
 
 ⠀⠀⠀⠀⠀⠀`HTML` `CSS` `SASS` `JavaScript` `GIT`
 
-⠀⠀⠀⠀⠀⠀Ja tive contato com: 
+Ja tive contato com: 
 
 ⠀⠀⠀⠀⠀⠀`Java` `Python`
 ⠀
