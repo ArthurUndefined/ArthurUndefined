@@ -15,7 +15,7 @@
 
 ### Ja tive contato com: 
 
-⠀⠀⠀⠀⠀⠀`Java` `Python`
+⠀⠀⠀⠀⠀⠀`Java`](https://www.linkedin.com/in/arthur-rabelo-5663871b6/) `Python`
 
 ### Entrar em contato comigo pelo:
 
