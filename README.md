@@ -10,7 +10,9 @@
 
 ⠀⠀⠀⠀⠀⠀Distrito Federal
 
-⠀⠀⠀⠀⠀⠀Para mais informações acessse: https://arthurundefined.github.io
+
+⠀⠀⠀⠀⠀⠀Para mais informações acessse: 
+⠀⠀⠀⠀⠀⠀https://arthurundefined.github.io
   
 ### Estudando Front-End:
 
