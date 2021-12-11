@@ -20,10 +20,10 @@
 ### Entrar em contato comigo pelo:
 
 ⠀⠀⠀⠀⠀⠀<a href="https://www.linkedin.com/in/arthur-rabelo-5663871b6/">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img width="26..px" src="https://img.icons8.com/wired/64/000000/linkedin--v1.png" />
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="26px" src="https://img.icons8.com/wired/64/000000/linkedin--v1.png" />
 ⠀⠀⠀⠀⠀⠀</a>
 ⠀⠀⠀⠀⠀⠀<a href="https://api.whatsapp.com/send?phone=5561995022477">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img width="26px" src="https://img.icons8.com/wired/64/000000/whatsapp.png" />
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="26px" src="https://img.icons8.com/wired/64/000000/whatsapp.png" />
 ⠀⠀⠀⠀⠀⠀</a>
 
 ### Para mais informações acessse: 
