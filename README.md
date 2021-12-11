@@ -15,17 +15,11 @@
 
 ⠀⠀⠀⠀⠀⠀https://arthurundefined.github.io
   
-### Estudando Front-End:
+### Estudando Front-End: `HTML` `CSS` `SASS` `JavaScript` `GIT`
 
----
 
-⠀⠀⠀⠀⠀⠀`HTML` `CSS` `SASS` `JavaScript` `GIT`
-
-### Ja tive contato com:
-
----
-
-⠀⠀⠀⠀⠀⠀`Java` `Python`⠀⠀
+### Ja tive contato com: `Java` `Python`
+⠀
 
 ### Entrar em contato comigo pelo:
 
