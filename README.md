@@ -10,7 +10,7 @@
 ⠀⠀⠀⠀⠀⠀<code>Distrito Federal</code>
 
 ### Estudando Front-End: 
----
+----
 
 ⠀⠀⠀⠀⠀⠀`HTML` `CSS` `SASS` `JavaScript` `GIT`
 
