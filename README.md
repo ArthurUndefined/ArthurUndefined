@@ -19,11 +19,12 @@
 
 ### Entrar em contato comigo pelo:
 
-⠀⠀⠀⠀⠀⠀<a href="mailto:fveronezipeters@gmail.com">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img width="22px" src="https://img.icons8.com/wired/64/000000/linkedin--v1.png" />
+⠀⠀⠀⠀⠀⠀<a href="https://www.linkedin.com/in/arthur-rabelo-5663871b6/">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img width="26..px" src="https://img.icons8.com/wired/64/000000/linkedin--v1.png" />
 ⠀⠀⠀⠀⠀⠀</a>
-⠀⠀⠀⠀⠀⠀[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-rabelo-5663871b6/)    [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561995022477)
-
+⠀⠀⠀⠀⠀⠀<a href="https://api.whatsapp.com/send?phone=5561995022477">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img width="26px" src="https://img.icons8.com/wired/64/000000/whatsapp.png" />
+⠀⠀⠀⠀⠀⠀</a>
 
 ### Para mais informações acessse: 
 
