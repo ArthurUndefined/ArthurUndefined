@@ -23,6 +23,6 @@
 
 ### Para mais informações acessse: 
 
-⠀⠀⠀⠀⠀⠀<code style="color: White">https://arthurundefined.github.io</code>
+⠀⠀⠀⠀⠀⠀<code><p style="color: White">https://arthurundefined.github.io</p></code>
 
   
