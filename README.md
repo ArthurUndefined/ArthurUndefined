@@ -5,7 +5,7 @@
 
 ⠀⠀⠀⠀⠀⠀<code>Cursando Tecnico de informatica</code>
 
-⠀⠀⠀⠀⠀⠀<code>2ºAno do Ensino Médio</code>
+⠀⠀⠀⠀⠀⠀<code>3ºAno do Ensino Médio</code>
 
 ⠀⠀⠀⠀⠀⠀<code>Distrito Federal</code>
 
